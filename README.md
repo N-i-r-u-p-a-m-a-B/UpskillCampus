@@ -1,9 +1,9 @@
-Prediction of Agriculture Crop Production in India
+# Prediction of Agriculture Crop Production in India
 
-Introduction
+## Introduction
 The "Prediction of Agriculture Crop Production in India" project aims to develop predictive models to forecast crop production across different regions of India. By leveraging machine learning techniques and agricultural data, this project seeks to provide valuable insights for farmers, policymakers, and stakeholders to make informed decisions and optimize agricultural practices.
 
-  Project Outline
+## Project Outline
 1. **Data Acquisition:**
    - Download the dataset from the provided source ([data.gov.in](https://data.gov.in/)).
    - Verify the integrity and completeness of the dataset.
